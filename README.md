@@ -1,3 +1,3 @@
 - Hi, I’m @miguercoelho159 but you can call me Miguel;
-- I’m interested in python, js, c, cc, ant many others;
-- I’m currently learning web and python (self-taugh/course).
+- I’m interested in python, js, c, cc, and many others languages;
+- I’m currently learning web and python (self-taugh/Brigham Young University Idaho WD130).
