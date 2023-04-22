@@ -1,3 +1,4 @@
-- Hi, I’m @miguercoelho159 but you can call me Miguel;
-- I’m interested in python, js, html, c, c++, c#, and many others languages;
-- I’m currently learning web and python (self-taugh/Brigham Young University Idaho).
+- Hi, I’m @miguercoelho159 but you can call me Miguel.
+- I’m interested in python, js, html, c, c++, c#, and many others languages.
+- I have studied and worked in many projects with Python, HTML and CSS.
+- I’m currently learning Git, C and C# (self-taugh/Brigham Young University Idaho).
