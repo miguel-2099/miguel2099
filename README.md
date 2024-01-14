@@ -1,4 +1,4 @@
 - Hi, I’m @miguercoelho159 but you can call me Miguel.
 - I’m interested in Python, js, HTML, C, C++, C#, and many other languages.
 - I have studied and worked on many projects with Python, HTML, CSS, C, Git, and C#.
-- I’m currently studying courses about Artificial intelligence (Intro and intermediate).
+- I’m majoring in Computer Science but on the side studying courses about Artificial intelligence (Intro and Intermediate).
